@@ -1,2 +1,5 @@
-﻿  rect.cpp
-  ProjectSDL_hello_world.vcxproj -> C:\Users\minja\source\repos\ProjectSDL_hello_world\Debug\ProjectSDL_hello_world.exe
+﻿  main.cpp
+  rect.cpp
+  Window.cpp
+  Generating Code...
+  ProjectSDL_hello_world.vcxproj -> C:\Users\minja\SDL_Tutorial\Debug\ProjectSDL_hello_world.exe
